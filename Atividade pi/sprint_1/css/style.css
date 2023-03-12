@@ -1,0 +1,51 @@
+
+bory {
+    margin: 0;
+}
+
+.card {
+    width: 500px;
+    height: fit-content;
+    background-color: #858585;
+    margin: 10px;
+    font-family: cursive;
+}
+
+.card_2 {
+
+    background-color: #858585;
+}
+
+.perfil {
+    width: 100px;
+    height: 100px;
+}
+
+.icon {
+    width: 100%;
+    height: 100%;
+}
+
+.texto_1 {
+    color: rgb(255, 255, 255);
+
+
+}
+
+.texto_2 {
+    color: #ffffff;
+
+
+}
+
+.borda_card {
+    border: 3px solid #000000;
+}
+
+.cor_de_fonte {
+    color: #1b080e;
+}
+
+.cor_de_fonte_2 {
+    color: rgb(0, 0, 0);
+}
